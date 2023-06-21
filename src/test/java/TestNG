@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testcases.LaunchPageTest"/>
+      <class name="testcases.GeneralMathTest"/>
+      <class name="testcases.GeneralMathPageTest"/>
+      <class name="testcases.PronouncingPageTest"/>
+      <class name="testcases.MathProblemPageTest"/>
+      <class name="testcases.FractionToDecimalTest"/>
+      <class name="testcases.ResultPageFtoDTest"/>
+      <class name="testcases.DecimalToFractionTest"/>
+      <class name="testcases.ResultPageDtoFTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
